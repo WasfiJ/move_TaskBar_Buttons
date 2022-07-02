@@ -1,5 +1,5 @@
 # move_TaskBar_Buttons
-Move task bar buttons aroubd from command line.
+Move task bar buttons around, from command line.
 
 This is a versatile Windows command-line interface to TTLib by Michael Maltsev (all rights reserved).
 https://ramensoftware.com/7-taskbar-tweaking-library
