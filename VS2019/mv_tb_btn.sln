@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mv_tb_btn", "mv_tb_btn.vcxproj", "{6AD08747-502D-41A2-B881-4D5F914D4369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD08747-502D-41A2-B881-4D5F914D4369}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AD08747-502D-41A2-B881-4D5F914D4369}.Debug|Win32.Build.0 = Debug|Win32
+		{6AD08747-502D-41A2-B881-4D5F914D4369}.Debug|x64.ActiveCfg = Debug|x64
+		{6AD08747-502D-41A2-B881-4D5F914D4369}.Debug|x64.Build.0 = Debug|x64
+		{6AD08747-502D-41A2-B881-4D5F914D4369}.Release|Win32.ActiveCfg = Release|Win32
+		{6AD08747-502D-41A2-B881-4D5F914D4369}.Release|Win32.Build.0 = Release|Win32
+		{6AD08747-502D-41A2-B881-4D5F914D4369}.Release|x64.ActiveCfg = Release|x64
+		{6AD08747-502D-41A2-B881-4D5F914D4369}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F26CF8C5-72B1-42A8-A2E9-77FBBC1EE5BF}
+	EndGlobalSection
+EndGlobal
